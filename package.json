@@ -52,12 +52,12 @@
     "prettier": "^2.1.2"
   },
   "dependencies": {
-    "axios": "^0.24.0",
+    "axios": "^1.7.9",
     "dotenv": "^8.2.0",
     "emoji-name-map": "^1.2.8",
     "github-username-regex": "^1.0.0",
     "upgrade": "^1.1.0",
-    "word-wrap": "^1.2.3"
+    "word-wrap": "^1.2.5"
   },
   "lint-staged": {
     "*.{js,css,md}": "prettier --write"
